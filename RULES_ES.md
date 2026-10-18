@@ -91,8 +91,8 @@ La persona que acaba de jugar **gana inmediatamente** si en el tablero se encuen
 
 *(Siempre gana la persona que haya provocado este estado mediante su jugada).*
 
-**6.2 Empate por triple repetición:**  
-Si por tercera vez en el transcurso de la partida se produce exactamente la misma posición en el tablero (todas las piezas en las mismas casillas, las mismas reservas y el turno para la misma persona), el juego termina inmediatamente en empate.
+**6.2 Empate por repetición de jugadas (Vaivén / Neutralización):**  
+Si las personas jugadoras repiten sus jugadas (por ejemplo, cuando una jugada neutraliza repetidamente la jugada anterior) de modo que se produzca por tercera vez exactamente la misma posición en el tablero (idéntica distribución de piezas de Núcleo y Masa, las mismas reservas y el turno para la misma persona), la partida termina inmediatamente en empate.
 
 **6.3 Empate tras 150 jugadas:**  
 Si tras 150 jugadas (75 jugadas por persona después de colocar los Núcleos) aún no se ha producido ningún Colapso, la partida termina en empate.
