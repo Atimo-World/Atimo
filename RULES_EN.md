@@ -91,8 +91,8 @@ The player who just moved **wins immediately** if two Core pieces and any Mass p
 
 *(The player who brings about this alignment through their move always wins).*
 
-**6.2 Draw by Threefold Repetition:**  
-If the exact same board position occurs for the third time during the game (all pieces on the same cells, same reserves, and the same player to move), the game ends immediately in a draw.
+**6.2 Draw by Move Repetition (Pendulum / Back-and-Forth):**  
+If the players repeat their moves (for example, when a move repeatedly neutralizes the previous move) so that the exact same position on the board occurs for the third time (identical distribution of Core and Mass pieces, same reserves, and the same player to move), the game ends immediately in a draw.
 
 **6.3 Draw After 150 Moves:**  
 If no Collapse has been achieved after 150 moves (75 moves per player after placing the Cores), the game ends in a draw.
