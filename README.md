@@ -200,4 +200,10 @@ If no Collapse has been achieved after 150 moves (75 moves per player after plac
 
 ---
 
-© 2026 Roberto Weinhold (Atimo). All rights reserved.
+---
+
+## Urheberrecht, Marke & Lizenz
+
+© 2026 **Roberto Weinhold (Atimo)**. Alle kommerziellen Rechte sowie die Markenrechte an **Atimo** sind vorbehalten.  
+Die private, schulische und nicht-kommerzielle Nutzung sowie das unveränderte Teilen dieses Regelwerks als Kulturgut sind unter der Lizenz **CC BY-NC-ND 4.0** ausdrücklich gestattet, sofern das Spiel beim Originalnamen **Atimo** genannt und **Roberto Weinhold (Atimo)** als Urheber angegeben wird.  
+👉 Vollständige Lizenz- und Markenbestimmungen: **[LICENSE](./LICENSE)**
