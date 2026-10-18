@@ -99,4 +99,10 @@ Si aucun Effondrement n'a été obtenu après 150 coups (75 coups par personne a
 
 ---
 
-© 2026 Roberto Weinhold (Atimo). Tous droits réservés.
+---
+
+## Droit d'Auteur, Marque et Licence
+
+© 2026 **Roberto Weinhold (Atimo)**. Tous les droits commerciaux et de marque sur **Atimo** sont réservés.  
+L'usage personnel, éducatif et non commercial, ainsi que le partage non modifié de ces règles en tant que patrimoine culturel, sont expressément autorisés sous la licence **CC BY-NC-ND 4.0**, à condition stricte que le jeu soit désigné par son nom original **Atimo** et attribué à **Roberto Weinhold (Atimo)**.  
+👉 Conditions complètes de licence et de marque : **[LICENSE](./LICENSE)**
