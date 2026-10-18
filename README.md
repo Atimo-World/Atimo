@@ -96,8 +96,8 @@ Die Person, die gerade gezogen hat, **gewinnt sofort**, wenn auf dem Brett zwei 
 
 *(Es gewinnt immer die Person, die diesen Zustand durch ihren Zug herbeigeführt hat).*
 
-**6.2 Unentschieden durch dreifache Wiederholung:**  
-Entsteht zum dritten Mal im Verlauf der Partie genau dieselbe Stellung auf dem Brett (alle Steine auf denselben Feldern, gleiche Vorräte und dieselbe Person am Zug), endet das Spiel sofort unentschieden.
+**6.2 Unentschieden durch Zugwiederholung (Pendeln):**  
+Wiederholen die Spielenden ihre Züge (zum Beispiel indem ein Zug den vorherigen Zug immer wieder neutralisiert), sodass zum dritten Mal genau dieselbe Stellung auf dem Brett entsteht (gleiche Verteilung der Kern- und Massesteine, gleiche Vorräte und dieselbe Person am Zug), endet das Spiel sofort unentschieden.
 
 **6.3 Unentschieden nach 150 Zügen:**  
 Ist nach 150 Zügen (75 Zügen pro Person nach dem Einsetzen der Kernsteine) noch kein Kollaps entstanden, endet die Partie unentschieden.
@@ -192,8 +192,8 @@ The player who just moved **wins immediately** if two Core pieces and any Mass p
 
 *(The player who brings about this alignment through their move always wins).*
 
-**6.2 Draw by Threefold Repetition:**  
-If the exact same board position occurs for the third time during the game (all pieces on the same cells, same reserves, and the same player to move), the game ends immediately in a draw.
+**6.2 Draw by Move Repetition (Pendulum / Back-and-Forth):**  
+If the players repeat their moves (for example, when a move repeatedly neutralizes the previous move) so that the exact same position on the board occurs for the third time (identical distribution of Core and Mass pieces, same reserves, and the same player to move), the game ends immediately in a draw.
 
 **6.3 Draw After 150 Moves:**  
 If no Collapse has been achieved after 150 moves (75 moves per player after placing the Cores), the game ends in a draw.
