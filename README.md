@@ -1,4 +1,4 @@
-# ATIMO – Offizielle Spielregeln & Referenz-Spezifikation
+# ATIMO – Offizielle Spielregeln
 
 **Urheber & Autor:** Roberto Weinhold (Atimo)  
 **Veröffentlichung:** 18. Oktober 2026 (Prior-Art-Referenz)  
