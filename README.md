@@ -1,8 +1,9 @@
 # ATIMO – Offizielle Spielregeln / Official Rules
 
+[![DOI](https://zenodo.org/badge/1414506527.svg)](https://doi.org/10.5281/zenodo.23459718)
+
 **Urheber & Autor / Creator & Author:** Roberto Weinhold (Atimo)  
 **Veröffentlichung / Publication:** Dresden, 18. Oktober 2026 (Prior-Art-Referenz / Prior Art Reference)
-**DOI:** [![DOI](https://zenodo.org/badge/1414506527.svg)](https://doi.org/10.5281/zenodo.23459718)
 **Spieltyp / Game Type:** Deterministisches Strategiespiel mit perfekter Information. / Deterministic strategy game with perfect information.
 
 🌐 **Sprachversionen / Language Versions:**  
