@@ -91,8 +91,8 @@ La personne qui vient de jouer **gagne immédiatement** si deux Noyaux et n'impo
 
 *(C'est toujours la personne qui a provoqué cet alignement par son coup qui remporte la partie).*
 
-**6.2 Match nul par triple répétition :**  
-Si exactement la même position sur le plateau se produit pour la troisième fois au cours de la partie (toutes les pièces sur les mêmes cases, mêmes réserves et même personne ayant le trait), la partie se termine immédiatement par un match nul.
+**6.2 Match nul par répétition de coups (Va-et-vient / Neutralisation) :**  
+Si les joueurs répètent leurs coups (par exemple, lorsqu'un coup neutralise à plusieurs reprises le coup précédent) de sorte qu'exactement la même position sur le plateau se produise pour la troisième fois (même répartition des Noyaux et des Masses, mêmes réserves et même personne ayant le trait), la partie se termine immédiatement par un match nul.
 
 **6.3 Match nul après 150 coups :**  
 Si aucun Effondrement n'a été obtenu après 150 coups (75 coups par personne après la pose des Noyaux), la partie se termine par un match nul.
