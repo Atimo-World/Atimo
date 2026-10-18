@@ -99,4 +99,10 @@ Si tras 150 jugadas (75 jugadas por persona después de colocar los Núcleos) a�
 
 ---
 
-© 2026 Roberto Weinhold (Atimo). Todos los derechos reservados.
+---
+
+## Derechos de Autor, Marca y Licencia
+
+© 2026 **Roberto Weinhold (Atimo)**. Todos los derechos comerciales y de marca sobre **Atimo** están reservados.  
+El uso personal, educativo y no comercial, así como la difusión inalterada de estas reglas como patrimonio cultural, están expresamente permitidos bajo la licencia **CC BY-NC-ND 4.0**, siempre que el juego se denomine por su nombre original **Atimo** y se atribuya la autoría a **Roberto Weinhold (Atimo)**.  
+👉 Términos completos de licencia y marca: **[LICENSE](./LICENSE)**
