@@ -93,4 +93,10 @@ Ist nach 150 Zügen (75 Zügen pro Person nach dem Einsetzen der Kernsteine) noc
 
 ---
 
-© 2026 Roberto Weinhold (Atimo). All rights reserved.
+---
+
+## Urheberrecht, Marke & Lizenz
+
+© 2026 **Roberto Weinhold (Atimo)**. Alle kommerziellen Rechte sowie die Markenrechte an **Atimo** sind vorbehalten.  
+Die private, schulische und nicht-kommerzielle Nutzung sowie das unveränderte Teilen dieses Regelwerks als Kulturgut sind unter der Lizenz **CC BY-NC-ND 4.0** ausdrücklich gestattet, sofern das Spiel beim Originalnamen **Atimo** genannt und **Roberto Weinhold (Atimo)** als Urheber angegeben wird.  
+👉 Vollständige Lizenz- und Markenbestimmungen: **[LICENSE](./LICENSE)**
