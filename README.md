@@ -86,7 +86,7 @@ In jeder der 4 geraden Richtungen gilt:
 Am Ende jedes Zuges (nachdem die Anziehungskraft vollständig ausgeführt wurde) wird geprüft, ob die Partie entschieden ist:
 
 **6.1 Sieg durch Kollaps (`Kern – Masse – Kern`):**  
-Die Person, die gerade gezogen hat, **gewinnt sofort**, wenn auf dem Brett zwei Kernsteine und ein beliebiger Massestein (eigener oder fremdem) auf **drei direkt aneinandergrenzenden Feldern in einer geraden Linie** (waagerecht oder senkrecht) genau in dieser Reihenfolge liegen:
+Die Person, die gerade gezogen hat, **gewinnt sofort**, wenn auf dem Brett zwei Kernsteine und ein beliebiger Massestein (eigener oder fremder) auf **drei direkt aneinandergrenzenden Feldern in einer geraden Linie** (waagerecht oder senkrecht) genau in dieser Reihenfolge liegen:
 
 Kernstein - Massestein - Kernstein
 
