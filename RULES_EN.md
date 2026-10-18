@@ -99,4 +99,10 @@ If no Collapse has been achieved after 150 moves (75 moves per player after plac
 
 ---
 
-© 2026 Roberto Weinhold (Atimo). All rights reserved.
+---
+
+## Copyright, Trademark & License
+
+© 2026 **Roberto Weinhold (Atimo)**. All commercial rights and trademark rights to **Atimo** are reserved.  
+Personal, educational, and non-commercial use, as well as the unaltered sharing of these rules as cultural heritage, are expressly permitted under the **CC BY-NC-ND 4.0** license, strictly provided the game is referred to by its original name **Atimo** and credited to **Roberto Weinhold (Atimo)**.  
+👉 Full license and trademark terms: **[LICENSE](./LICENSE)**
